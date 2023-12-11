@@ -1,0 +1,8 @@
+
+public class AttendanceTrackerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AttendanceTrackerApplication.class, args);
+    }
+
+}
